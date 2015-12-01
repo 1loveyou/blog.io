@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "知之真切笃实处即是行，行之明觉精察处即是知 "
+description: "行走于天地间，不愧于心 "
 header-img: "img/zhihu.jpg"
 ---
 
@@ -11,14 +11,14 @@ header-img: "img/zhihu.jpg"
 </center>
 
 
-###代表作：
+###自己写下的文字：
 
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://www.jianshu.com/p/6f1404e0240d)
+- [《逝者如水，不舍昼夜》](http://hiiloveyou.lofter.com/post/1cd61dd8_7d0bce4)
 
-- [《如何正确地练习写作》](http://www.jianshu.com/p/2621444b619d)
+- [《六月里的毕业祭》](http://hiiloveyou.lofter.com/post/1cd61dd8_722989d)
 
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
+- [《原来已经走了这么远》](http://hiiloveyou.lofter.com/post/1cd61dd8_6dd1168/)
 
 
 
