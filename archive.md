@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "君之所见，我将岁月化成的文字"
+description: "君之所见，岁月化成的文字"
 header-img: "img/orange.jpg"
 ---
 
