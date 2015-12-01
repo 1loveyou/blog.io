@@ -10,9 +10,9 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是王伟，对于未来有良好的祈愿，对于当下，鞭策着自己不断前行。
+我是青君，对于未来有良好的祈愿，对于当下，鞭策着自己不断前行。
 
-现在在准备 **2016浙江省公务员** 。
+现在在准备 **2016浙江省公务员考试** 。
 
 ###坚信
 
