@@ -44,16 +44,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "iwangwei"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : iwangwei
   disqus :
-      short_name : cnfeat
+      short_name : iwangwei
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
