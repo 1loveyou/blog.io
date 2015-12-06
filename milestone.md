@@ -11,7 +11,7 @@ header-img: "img/zhihu.jpg"
 ###自己写下的文字：
 
 
-- [《逝者如水，不舍昼夜》](http://hiiloveyou.lofter.com/post/1cd61dd8_7d0bce4)
+- [《关于我未来的一些不成熟的思考》](http://hiiloveyou.lofter.com/post/1cd61dd8_923b357#)
 
 - [《六月里的毕业祭》](http://hiiloveyou.lofter.com/post/1cd61dd8_722989d)
 
