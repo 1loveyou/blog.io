@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "里程碑"
+title: "milestone"
 description: "行走于天地间，不愧于心 "
 header-img: "img/zhihu.jpg"
 ---
