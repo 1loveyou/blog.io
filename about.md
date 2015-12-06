@@ -6,10 +6,6 @@ header-img: "img/green.jpg"
 ---
 
 
-<center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
-
 我是青君现在处于人生中最迷茫的岁月，但不回头，前路未知，只能踏歌前行，不相信宿命论
 
 现在在准备 **2016浙江省公务员考试** 。
