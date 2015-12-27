@@ -1,11 +1,17 @@
 ---
 
 layout: post
+
 title: 写在2015年末的
+
 date: 2015-12-27
+
 categories: 
+
 blog:
+
 tags: [年末，毕业，总结]
+
 description:又是一年过去了，写点东西回忆下吧
 
 ---
