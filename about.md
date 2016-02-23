@@ -35,7 +35,7 @@ header-img: "img/green.jpg"
 - 看完许多许多书
 - 写下许多许多字
 
-####更多关于我：
+#### 更多关于我：
 
 
 - [我的乐乎](http://hiiloveyou.lofter.com/)
@@ -43,7 +43,7 @@ header-img: "img/green.jpg"
 - [Qzone](http://user.qzone.qq.com/919094850//)
 
 
-####信条：
+#### 信条：
 
 
 >人生悠长，有趣的人会相遇。  
