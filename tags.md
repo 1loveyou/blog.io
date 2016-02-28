@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Tags
-description: "旅程记"  
-header-img: "img/semantic.jpg"  
+description: "我的航海志"
+header-img: "img/semantic.jpg"
 ---
 
 
