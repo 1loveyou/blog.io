@@ -6,11 +6,9 @@ title: 诗酒趁年华
 
 date: 2016-1-22
 
-categories:
- 
-blog: 
+categories: blog
 
-tags: [年初，旬记，冬天]
+tags: [life]
 
 description: 时间过的好快，新年就要来了
 
