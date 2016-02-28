@@ -28,4 +28,3 @@ header-img: "img/semantic.jpg"
 </ul>
 {% endfor %}
 </div>
-
