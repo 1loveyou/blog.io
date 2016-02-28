@@ -6,11 +6,9 @@ title: 写在2015年末的
 
 date: 2015-12-27
 
-categories: 
+categories: blog
 
-blog:
-
-tags: [年末，总结，展望]
+tags: [life]
 
 description: 又是一年过去了，写点东西总结下
 
