@@ -1,21 +1,23 @@
 ---
 layout: page
-title: "Milestone"
+title: "cotent"
 description: "行走于天地间，不愧于心 "
 header-img: "img/zhihu.jpg"
 ---
+<ul class="listing">
+{% for post in site.posts %}
+  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+  {% if year != y %}
+    {% assign year = y %}
+    <li class="listing-seperator">{{ y }}</li>
+  {% endif %}
+  <li class="listing-item">
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
 
-
-
-
-#### 自己写下的文字：
-
-
-- [《关于我未来的一些不成熟的思考》](http://hiiloveyou.lofter.com/post/1cd61dd8_923b357#)
-
-- [《六月里的毕业祭》](http://hiiloveyou.lofter.com/post/1cd61dd8_722989d)
-
-- [《原来已经走了这么远》](http://hiiloveyou.lofter.com/post/1cd61dd8_6dd1168/)
 
 
 
