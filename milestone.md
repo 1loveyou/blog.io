@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "cotent"
+title: "Content"
 description: "行走于天地间，不愧于心 "
 header-img: "img/zhihu.jpg"
 ---
