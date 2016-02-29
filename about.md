@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
 
 ---
 
-#### 梦想
+### 梦想
 
 - 读CS硕士
 - 开一间精致的书店
