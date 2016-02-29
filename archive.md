@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Archive"
-description: "君之所见，岁月化成的文字"
+title: "Reading"
+description: "丙申年读书索引"
 header-img: "img/orange.jpg"
 ---
 
