@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Content"
-description: "行走于天地间，不愧于心 "
+description: "我写的编年史 "
 header-img: "img/zhihu.jpg"
 ---
 <ul class="listing">
