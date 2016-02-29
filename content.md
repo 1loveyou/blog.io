@@ -1,9 +1,11 @@
 ---
 layout: page
 title: "Content"
-description: "我写的编年史 "
+description: "岁月成文 "
 header-img: "img/zhihu.jpg"
 ---
+
+
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
@@ -17,7 +19,6 @@ header-img: "img/zhihu.jpg"
   </li>
 {% endfor %}
 </ul>
-
 
 
 
