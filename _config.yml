@@ -16,8 +16,8 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
+douban_username:  Qing
+twitter_username: Qing
 github_username: 1loveyou
 facebook_username: 
 weibo_username: iwangu 
@@ -57,7 +57,7 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : iwangwei
+    short_name : Qing
   disqus :
       short_name : iwangwei
 
