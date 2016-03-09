@@ -6,7 +6,7 @@ title: 又一个四分之一年
 
 date: 2016-3-9
 
-categories:blog
+categories: blog
  
 tags: [book,life]
 
