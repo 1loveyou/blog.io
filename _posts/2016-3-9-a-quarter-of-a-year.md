@@ -8,7 +8,7 @@ date: 2016-3-9
 
 categories:blog
  
-tags: [book，life]
+tags: [book,life]
 
 description: 时间过得好快。
 
