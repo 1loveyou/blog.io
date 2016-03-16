@@ -6,7 +6,7 @@ title: 绿叶新发，秋枝未走
 
 date: 2016-3-16
 
-categories:blog
+categories: blog
  
 tags: [life]
 
