@@ -1,4 +1,4 @@
-﻿---
+---
 
 layout: post 
 
@@ -6,7 +6,7 @@ title: 四月，我要看鲜花绚烂
 
 date: 2016-4-1
 
-categories:blog
+categories: blog
  
 tags: [book,life]
 
