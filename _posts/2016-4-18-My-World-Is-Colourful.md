@@ -8,7 +8,7 @@ date: 2016-4-18
 
 categories: blog
  
-tags: [book,life,travels]
+tags: [life,travels]
 
 description: 上半个月实际值的记下的颇多，拖到现在才写实是不该。
 
