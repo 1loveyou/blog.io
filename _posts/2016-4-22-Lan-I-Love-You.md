@@ -6,7 +6,7 @@ title: 兰，很高兴和你在一起
 
 date: 2016-4-22
 
-categories:blog
+categories: blog
  
 tags: [love]
 
