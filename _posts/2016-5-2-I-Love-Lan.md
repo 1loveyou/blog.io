@@ -8,7 +8,7 @@ date: 2016-5-2
 
 categories: blog
  
-tags:[life,love]
+tags: [life,love]
 
 description: 这个四月发生了很多事情，而这篇是个总结。
 
