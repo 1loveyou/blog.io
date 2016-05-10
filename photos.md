@@ -18,7 +18,7 @@ header-img: "img/pinkrose.jpg"
 
 ![](https://raw.githubusercontent.com/1loveyou/Mypicture/master/imags/Lan2.jpg)
 
-这张是某人给我的应该去年冬天拍的，好温暖的感觉。
+这张是某人给我的，应该去年冬天拍的，好温暖的感觉。
 
 ---
 
@@ -30,13 +30,13 @@ header-img: "img/pinkrose.jpg"
 
 ![](https://raw.githubusercontent.com/1loveyou/Mypicture/master/imags/We1.jpg)
 
-这张实际想亲在老婆额头上拍的，可是那就看不了镜头了，不好拍，下次你来。
+这张实际想亲在你额头上拍的，可是那就看不了镜头了，不好拍，下次你来。
 
 ---
 
 ![](https://raw.githubusercontent.com/1loveyou/Mypicture/master/imags/We2.jpg)
 
-这一定是老婆把我带成逗比，都怪你。
+一定是你把我带成逗比，都怪你。
 
 ---
 
