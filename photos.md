@@ -4,7 +4,7 @@ layout: page
 
 title: "Photos"
 
-descripiton: "我们的甜蜜记录"
+description: "我们的甜蜜记录"
 
 header-img: "img/pinkrose.jpg"
 
