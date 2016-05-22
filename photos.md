@@ -45,3 +45,13 @@ header-img: "img/pinkrose.jpg"
 老婆配上纯黑色毛衣很好看呐，嘿嘿，爱你。
 
 ---
+
+![](https://raw.githubusercontent.com/1loveyou/Mypicture/master/imags/Lan5.png)
+
+拍摄于2016年5月20日，武汉，这花很美，但是宝贝更美！
+
+---
+
+![](https://raw.githubusercontent.com/1loveyou/Mypicture/master/imags/Lan6.png)
+
+被老婆比下去的花儿正委屈呢。
