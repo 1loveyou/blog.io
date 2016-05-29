@@ -8,7 +8,7 @@ date: 2016-5-21
 
 categories: blog
  
-tags: [life，love]
+tags: [life,love]
 
 description: 这篇博客拖了很久，今天终于有了时间来撰写。
 
