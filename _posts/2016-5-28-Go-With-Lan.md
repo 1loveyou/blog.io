@@ -2,13 +2,13 @@
 
 layout: post 
 
-title: 青·兰(那就出发)
+title: 最长的情书(那就出发)
 
 date: 2016-5-28
 
 categories: blog
  
-tags: [最长的情书,love]
+tags: [love,letter]
 
 description: 直至结婚。
 
