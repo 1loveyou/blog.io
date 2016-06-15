@@ -2,13 +2,13 @@
 
 layout: post 
 
-title: 青·兰（天天想你）
+title: 最长的情书（天天想你）
 
 date: 2016-6-7
 
 categories: blog
  
-tags: [最长的情书,love]
+tags: [love,letter]
 
 description: 直至结婚。
 
