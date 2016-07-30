@@ -79,6 +79,6 @@ header-img: "img/orange.jpg"
 ### 七月书单
 
 * 情书
-* Pride And Prejudice
+* ~~Pride And Prejudice~~
 
 乏善可陈的七月，空白的七月。
