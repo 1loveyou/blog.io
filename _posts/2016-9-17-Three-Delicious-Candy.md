@@ -8,7 +8,7 @@ date: 2016-9-17
 
 categories: blog
  
-tags: [love,letter,lan]
+tags: [love,travels,lan]
 
 description: 兰兰写的爱情旅程。
 
