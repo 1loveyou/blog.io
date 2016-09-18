@@ -8,7 +8,7 @@ date: 2016-8-20
 
 categories: blog
  
-tags: [love,travels]
+tags: [love,travels,lan]
 
 description: 最爱的宝贝写的。
 
