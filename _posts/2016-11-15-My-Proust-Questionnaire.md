@@ -118,47 +118,47 @@ description:
 
 作家。
 
-25. What is your most marked characteristic?
+25.What is your most marked characteristic?
 
 温和。
 
-26. What do you most value in your friends?
+26.What do you most value in your friends?
 
 真诚地相处。
 
-27. Who are your favorite writers?
+27.Who are your favorite writers?
 
 村上春树。和这世界友好相处。
 
-28. Who is your hero of fiction?
+28.Who is your hero of fiction?
 
 没有。
 
-29. Which historical figure do you most identify with?
+29.Which historical figure do you most identify with?
 
 孔子，不该被神话，也不该被误解。
 
-30. Who are your heroes in real life?
+30.Who are your heroes in real life?
 
 他们，对于这个世界和陌生人怀有善意的人。
 
-31. What are your favorite names?
+31.What are your favorite names?
 
 青君。
 
-32. What is it that you most dislike?
+32.What is it that you most dislike?
 
 Aggressive，是个秩序的破坏者，又破坏别人的生活轨迹。
 
-33. What is your greatest regret?
+33.What is your greatest regret?
 
 早点知道学习为何物。
 
-34. How would you like to die?
+34.How would you like to die?
 
 身体无痛苦，且心中无憾。
 
-35. What is your motto?
+35.What is your motto?
 
 语出论语：
 
