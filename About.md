@@ -5,6 +5,13 @@ description: "青和他的告白书 "
 header-img: "img/green.jpg"
 ---
 
+*Version 4 ：* 
+
+---
+
+五月的最后一天，盛夏开始了，朝着梦想，和她一起加油。
+
+---
 *Version 3 ：* 
 
 ---
@@ -44,7 +51,6 @@ header-img: "img/green.jpg"
 - 和兰一起出国游
 - 体重到125斤
 - 有一个月跑步100公里
-- 公务员考试成功
 
 ---
 
