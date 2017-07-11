@@ -34,7 +34,7 @@ highlighter: rouge
 gems: 
 - jekyll-gallery-generator
 - jekyll-paginate
-permalink: true
+permalink: none
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
