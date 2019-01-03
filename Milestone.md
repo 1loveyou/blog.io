@@ -6,7 +6,7 @@ title: "Milestone"
 
 description: "青与兰的纪念日"
 
-header-img: "img/rose.jpg"
+header-img: "img/milestone.jpg"
 
 ---
 
