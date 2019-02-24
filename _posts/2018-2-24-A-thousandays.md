@@ -1,6 +1,6 @@
 ---
 
-title: 2019-2-24-A-thousandays
+title: 1000天！
 
 date: 2019-2-24
 
